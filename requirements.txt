@@ -1,0 +1,7 @@
+oci
+oci[adk]
+requests
+fdk
+oracledb
+pandas
+python-dotenv
